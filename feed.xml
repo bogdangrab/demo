@@ -1,45 +1,68 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
     <channel>
         <title>Example - Google Store</title>
         <link>https://store.google.com</link>
         <description>This is an example of a basic RSS 2.0 document containing a single item</description>
         <item>
-            <g:id>TV_123456</g:id>
-            <g:title>Google Chromecast with Google TV</g:title>
-            <g:description>Chromecast with Google TV brings you the entertainment you love, in up to 4K HDR</g:description>
-            <g:link>https://store.google.com/product/chromecast_google_tv</g:link>
-            <g:image_link>https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg</g:image_link>
+            <g:id>2131</g:id>
+            <g:title><![CDATA[Google Chromecast with Google TV]]></g:title>
+            <g:description><![CDATA[Chromecast with Google TV brings you the entertainment you love, in up to 4K HDR]]></g:description>
+            <g:link><![CDATA[https://store.google.com/product/chromecast_google_tv]]></g:link>
+            <g:image_link><![CDATA[https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg]]></g:image_link>
             <g:condition>new</g:condition>
             <g:availability>in stock</g:availability>
             <g:price>49.99 USD</g:price>
-            <g:shipping>
-                <g:country>US</g:country>
-                <g:service>Standard</g:service>
-                <g:price>7.99 USD</g:price>
-            </g:shipping>
-            <g:gtin>123456789123</g:gtin>
+            <g:sale_price>10.00 USD</g:sale_price>
             <g:brand>Google</g:brand>
         </item>
         <item>
-            <g:id>TV_h002</guid>
-            <g:title>Sample Hat 002</title>
-            <g:link>https://store.google.com/product/chromecast_google_tv</link>
-            <g:image_link>https://images.pexels.com/photos/4021773/pexels-photo-4021773.jpeg</g:image_link>
-            <g:description>Low quality wool hat.</description>
-            <g:category><![CDATA[Hats>Wool Hat]]></category>
-            <g:brand>SampleManufactor2</g:brand>
-            <g:in_stock>Y</g:inStock>
-            <g:stock>20</g:stock>
-            <g:recommend>Y</g:recommend>
-            <g:tags>short sleeve,blue,men’s,outdoor</g:tags>
-            <g:recommended>h001,h003</g:recommended>
-            <g:attribute name="Colour">Black </g:attribute>
-            <g:attribute name="Size">16,18,20</g:attribute>
-            <g:price>  
-                <g:unitPrice>5</g:unitPrice>  
-                <g:currency>GBP</g:currency>
-            </g:price>
+            <g:id>1563623</g:id>
+            <g:title><![CDATA[Sample Hat 001]]></g:title>
+            <g:description><![CDATA[Low quality wool hat.]]></g:description>
+            <g:link><![CDATA[https://store.google.com/product/chromecast_google_tv]]></g:link>
+            <g:image_link><![CDATA[https://images.pexels.com/photos/4021773/pexels-photo-4021773.jpeg]]></g:image_link>
+            <g:condition>new</g:condition>
+            <g:availability>in stock</g:availability>
+            <g:price>49.99 USD</g:price>
+            <g:sale_price>10.00 USD</g:sale_price>
+            <g:brand>Google</g:brand>
+        </item>
+        <item>
+            <g:id>1251345</g:id>
+            <g:title><![CDATA[Sample Hat 002]]></g:title>
+            <g:description><![CDATA[Low quality wool hat.]]></g:description>
+            <g:link><![CDATA[https://store.google.com/product/chromecast_google_tv]]></g:link>
+            <g:image_link><![CDATA[https://images.pexels.com/photos/4021773/pexels-photo-4021773.jpeg]]></g:image_link>
+            <g:condition>new</g:condition>
+            <g:availability>in stock</g:availability>
+            <g:price>49.99 USD</g:price>
+            <g:sale_price>10.00 USD</g:sale_price>
+            <g:brand>Google</g:brand>
+        </item>
+        <item>
+            <g:id>153142</g:id>
+            <g:title><![CDATA[Sample Hat 003]]></g:title>
+            <g:description><![CDATA[Low quality wool hat.]]></g:description>
+            <g:link><![CDATA[https://store.google.com/product/chromecast_google_tv]]></g:link>
+            <g:image_link><![CDATA[https://images.pexels.com/photos/4021773/pexels-photo-4021773.jpeg]]></g:image_link>
+            <g:condition>new</g:condition>
+            <g:availability>in stock</g:availability>
+            <g:price>49.99 USD</g:price>
+            <g:sale_price>10.00 USD</g:sale_price>
+            <g:brand>Google</g:brand>
+        </item>
+        <item>
+            <g:id>2134124</g:id>
+            <g:title><![CDATA[Sample Hat 004]]></g:title>
+            <g:description><![CDATA[Low quality wool hat.]]></g:description>
+            <g:link><![CDATA[https://store.google.com/product/chromecast_google_tv]]></g:link>
+            <g:image_link><![CDATA[https://images.pexels.com/photos/4021773/pexels-photo-4021773.jpeg]]></g:image_link>
+            <g:condition>new</g:condition>
+            <g:availability>in stock</g:availability>
+            <g:price>49.99 USD</g:price>
+            <g:sale_price>10.00 USD</g:sale_price>
+            <g:brand>Google</g:brand>
         </item>
     </channel>
 </rss>
